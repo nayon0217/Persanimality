@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+*{
+    background-color:#f88379 ;
+    font-family: 'Fredoka One', sans-serif;
+    font-weight:100;
+}
+.intro-page{
+    text-align: center;
+    margin:10%
+}
+#header{
+    color:#ffffff;
+    font-size:250%;
+}    
+#description{
+    color:#FFFDD1;
+}
+.start-button{
+    background-color: #ffffff;
+    color: #f88379;
+    font-size: larger;
+    border:#ffffff solid;
+    width: 20%;
+    margin: auto auto;
+    height: 30%;
+    padding: 5px;
+    margin-top: 3%;
+    border-radius: 10rem;
+    
+}
+.start-button:hover{
+    background-color: #FFFFFF;
+    color: #fbdb32;
+    border: #fbdb32 solid;
+}
+
+.question-page{
+    text-align: center;
+    margin:10%;
+}
+#question-number{
+    color:#fbdb32;
+    margin-bottom: 50px;
+}
+
+#question{
+    color:#ffffff;
+    margin-bottom: 25px;
+}
+
+
+.answer{
+    background-color: #ffffff;
+    color: #f88379;
+    border:#ffffff solid;
+    font-size:larger;
+    margin: auto auto;
+    padding: 5px;
+    margin-top: 3%;
+    border-radius: 10rem; 
+}
+
+.answer:hover{
+    background-color: #FFFFFF;
+    color: #fbdb32;
+    border: #fbdb32 solid;
+}
+
+.back-button{
+    background-color: #ffffff;
+    color: #f88379;
+    font-size: larger;
+    border:#ffffff solid;
+    width: 20%;
+    margin: auto auto;
+    height: 30%;
+    padding: 5px;
+    margin-top: 3%;
+    border-radius: 10rem;
+    text-align: center;
+}
+
+.back-button:hover{
+    background-color: #FFFFFF;
+    color: #fbdb32;
+    border: #fbdb32 solid;
+}
+
+.result-page{
+    text-align: center;
+    margin:10%
+}
+#result-animal{
+    color:#ffffff;
+    font-size:250%;
+}
+#result-description{
+    color:#FFFDD1;
+}
+#result-restart{
+    background-color: #ffffff;
+    color: #f88379;
+    font-size: larger;
+    border:#ffffff solid;
+    width: 20%;
+    margin: auto auto;
+    height: 30%;
+    padding: 5px;
+    margin-top: 3%;
+    border-radius: 10rem;
+    text-align: center;
+}
+#result-restart:hover{
+    background-color: #FFFFFF;
+    color: #fbdb32;
+    border: #fbdb32 solid;
+}
